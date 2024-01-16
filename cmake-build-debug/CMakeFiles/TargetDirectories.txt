@@ -1,0 +1,3 @@
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/AoCS/IndividualHomeWork4/IHW4Cpp2/cmake-build-debug/CMakeFiles/IHW4Cpp2.dir
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/AoCS/IndividualHomeWork4/IHW4Cpp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/AoCS/IndividualHomeWork4/IHW4Cpp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
